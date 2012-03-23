@@ -2,7 +2,7 @@
 ' Sample VBScript to kill a program
 ' Author Guy Thomas http://computerperformance.co.uk/
 ' Version 2.7 - December 2010
-' 22 March 2012: K Caulfield, Excelian Ltd. KillTrinity clone
+' 22 March 2012: K Caulfield, Excelian Ltd. 
 ' ------------------------ -------------------------------' 
 Option Explicit
 Dim objWMIService, objProcess, colProcess, colProperties, objFSO, objTextFile
@@ -16,7 +16,7 @@ Dim iProcesses
 Const ForReading = 1
 
 WSCript.Echo "-------------------------------------------"
-WSCript.Echo "Kill Trinity Script - Standard Bank London."
+WSCript.Echo "Kill Trinity Script - "
 WSCript.Echo "-------------------------------------------"
 
 ' ----------------------------------------------------
